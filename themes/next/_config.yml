@@ -610,7 +610,7 @@ disqusjs:
 
 # Changyan
 changyan:
-  enable: true
+  enable: false
   appid: cyuzWoKIx
   appkey: 20d7d211c67f9e8fdf1a4161321e0765
   #post_meta_order: 0
@@ -618,9 +618,9 @@ changyan:
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
-  enable: false
-  appid: # Your leancloud application appid
-  appkey: # Your leancloud application appkey
+  enable: true
+  appid: mUugkatJzDBLFKfbONTxpOxR-MdYXbMMI # Your leancloud application appid
+  appkey: YkcMswTDJleuK9SMtNOI4gcE # Your leancloud application appkey
   notify: false # Mail notifier
   verify: false # Verification code
   placeholder: Just go go # Comment box placeholder
